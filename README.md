@@ -55,7 +55,61 @@ pip install -r requirements.txt TODO
 echo "OPENAI_API_KEY=your_api_key_here" > .env  # If using OpenAI TODO
 ```
 ---
-## How to Use DrugMate TODO: meter capturas
+## User Interface Overview
+
+DrugMate provides an interactive web interface that allows users to easily engage with the chatbot and retrieve medical information. Below is a breakdown of the main sections of the interface:
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/742ec922-a1ec-43c7-a28a-fc4b2e383763">
+</div>
+
+
+
+### ⏱️ Conversation History
+
+- It allows users to **show or hide full question history**.
+- When enabled, users can see:
+  - **All previous questions** they've asked in the current session.
+  - The **corresponding AI-generated answers** for each.
+- This feature helps users revisit prior information without needing to retype their queries.
+
+### 💬 Question Input
+
+- A text input field allows users to **type questions** about medications in any language.
+- A **“Send Question”** button submits the query.
+  
+### ⏱️ Response Time Display
+
+- Displays how many seconds the response generation took — a great transparency feature.
+
+### ✨ Latest Question and Answer
+
+- Shows the **most recent question** and a concise, AI-generated **answer**, sourced strictly from verified documents.
+- The response box is styled in green for clarity and trust.
+
+### 🤔 Suggested Follow-up Questions
+
+- The app automatically generates **3 contextually relevant follow-up questions**.
+- Users can click any of them to dive deeper into the topic.
+- These are generated in the same language as the original query.
+
+### 🔍 Summarize Context
+
+- it summarizes the underlying document **context** in simple, layman-friendly terms.
+- Useful for users who want to understand the leaflet content without reading full medical documents.
+
+### 📄 Source Documents
+
+- Displays the **exact source documents and section titles** used to generate the answer.
+- This ensures transparency and allows users to verify the medical information.
+
+### 👥 Meet the Team
+
+- Shows a **team photo** and names of the developers of the tool.
+
+
+---
+## How to Use DrugMate
 
 1) Launch the application
 2) Ask medication questions in natural language. Try these type of questions:
