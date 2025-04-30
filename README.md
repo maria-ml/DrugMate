@@ -4,6 +4,11 @@
 
 Users can ask questions about medication usage, side effects, dosages, and contraindications, and receive grounded, trustworthy responses.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ba5e635f-12b1-4841-955f-642d4c71621e" width="300">
+</div>
+
+
 ---
 
 ## Key Features of the System
@@ -32,9 +37,28 @@ Users can ask questions about medication usage, side effects, dosages, and contr
 ---
 
 
+## Getting Started
 
+### Prerequisites
+TODO
 
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/TODO
+cd TODO
 
+# Install dependencies
+pip install -r requirements.txt TODO
 
+# Set up environment variables
+echo "OPENAI_API_KEY=your_api_key_here" > .env  # If using OpenAI TODO
+```
+---
+## How to Use DrugMate TODO: meter capturas
 
+1) Launch the application
+2) Ask medication questions in natural language. Try these type of questions:
+TODO
+3) Receive accurate, sourced answers
 
