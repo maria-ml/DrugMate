@@ -35,8 +35,10 @@ Users can ask questions about medication usage, side effects, dosages, and contr
 | `Streamlit`                             | Web application UI                  |
 
 ---
+## Project Structure
+TODO
 
-
+---
 ## Getting Started
 
 ### Prerequisites
@@ -112,7 +114,32 @@ DrugMate provides an interactive web interface that allows users to easily engag
 ## How to Use DrugMate
 
 1) Launch the application
-2) Ask medication questions in natural language. Try these type of questions:
-TODO
-3) Receive accurate, sourced answers
+2) Ask medication questions in natural language. Try these type of questions: TODO
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+      - ..
+    
+4) Receive accurate, sourced answers
 
+
+---
+
+## Team
+Developed by: 
+- Paula De Diego Hidalgo
+- María Martínez Labrador
+- Paula Ochotorena Santacilia
+- Camilo Zabala Hurtado
+
+University Carlos III of Madrid (UC3M)
+Natural Language Processing – Academic Year 2024/2025
