@@ -114,27 +114,33 @@ DrugMate provides an interactive web interface that allows users to easily engag
 ## How to Use DrugMate
 
 1) Launch the application
-2) Ask medication questions in natural language. Try these type of questions: TODO
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
-      - ..
+2) Ask medication questions. Try these type of questions: 
+      - What are the main reasons me, as a patient should not take Amlodipine Fair-Med 5 mg?
+      - How should Amlodipine Thame 10 mg be stored after opening?
+      - How is Ampres solution administered, and what is the typical dose for adults?
+      - What happens if I forget to take my Androcur 100 mg? 
+      - Could Aripil 5 mg affect my ability to drive cars or use machines in any way?
+      - Is it safe to take Valoid 50 mg if I’ve had too much to drink?
+  
+        
+        You can even try other languages:
+      - Quelle est la manière recommandée de prendre Roaccutane 20 mg ?
+      - Zu welcher Tageszeit sollte Simvastatin Teva 10 mg am besten eingenommen werden?
+      - Quanto spesso posso prendere Rowalief 500 mg al giorno?
+      - El ibuprofeno 400mg reduce la inflamacion?
+      - Eu tenho um problema cardíaco sério. É arriscado tomar Tadalafil Clonmel 20 mg?
     
-4) Receive accurate, sourced answers
+3) Receive accurate and sourced answers
 
 
 ---
 
 ## Team
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/40d4bb27-c0bc-4061-b50d-5a8fe55357ca" width="300">
+</div>
+
 Developed by: 
 - Paula De Diego Hidalgo
 - María Martínez Labrador
@@ -145,8 +151,6 @@ University Carlos III of Madrid (UC3M)
 Natural Language Processing – Academic Year 2024/2025
 
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/40d4bb27-c0bc-4061-b50d-5a8fe55357ca" width="300">
-</div>
+
 
 
