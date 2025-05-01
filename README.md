@@ -5,7 +5,7 @@
 Users can ask questions about medication usage, side effects, dosages, and contraindications, and receive grounded, trustworthy responses.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ba5e635f-12b1-4841-955f-642d4c71621e" width="300">
+<img src="https://github.com/user-attachments/assets/5abd7149-bf58-4632-80f3-6952ec995f8f" width="300">
 </div>
 
 
@@ -62,7 +62,7 @@ echo "OPENAI_API_KEY=your_api_key_here" > .env  # If using OpenAI TODO
 DrugMate provides an interactive web interface that allows users to easily engage with the chatbot and retrieve medical information. Below is a breakdown of the main sections of the interface:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/742ec922-a1ec-43c7-a28a-fc4b2e383763">
+<img src="https://github.com/user-attachments/assets/24abd5c0-0d5e-4f02-a3f4-cfd8506b490d">
 </div>
 
 
@@ -143,3 +143,10 @@ Developed by:
 
 University Carlos III of Madrid (UC3M)
 Natural Language Processing – Academic Year 2024/2025
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/40d4bb27-c0bc-4061-b50d-5a8fe55357ca" width="300">
+</div>
+
+
