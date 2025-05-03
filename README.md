@@ -67,7 +67,7 @@ DrugMate provides an interactive web interface that allows users to easily engag
 
 
 
-### ⏱️ Conversation History
+#### ⏱️ Conversation History
 
 - It allows users to **show or hide full question history**.
 - When enabled, users can see:
@@ -75,37 +75,37 @@ DrugMate provides an interactive web interface that allows users to easily engag
   - The **corresponding AI-generated answers** for each.
 - This feature helps users revisit prior information without needing to retype their queries.
 
-### 💬 Question Input
+#### 💬 Question Input
 
 - A text input field allows users to **type questions** about medications in any language.
 - A **“Send Question”** button submits the query.
   
-### ⏱️ Response Time Display
+#### ⏱️ Response Time Display
 
 - Displays how many seconds the response generation took — a great transparency feature.
 
-### ✨ Latest Question and Answer
+#### ✨ Latest Question and Answer
 
 - Shows the **most recent question** and a concise, AI-generated **answer**, sourced strictly from verified documents.
 - The response box is styled in green for clarity and trust.
 
-### 🤔 Suggested Follow-up Questions
+#### 🤔 Suggested Follow-up Questions
 
 - The app automatically generates **3 contextually relevant follow-up questions**.
 - Users can click any of them to dive deeper into the topic.
 - These are generated in the same language as the original query.
 
-### 🔍 Summarize Context
+#### 🔍 Summarize Context
 
 - it summarizes the underlying document **context** in simple, layman-friendly terms.
 - Useful for users who want to understand the leaflet content without reading full medical documents.
 
-### 📄 Source Documents
+#### 📄 Source Documents
 
 - Displays the **exact source documents and section titles** used to generate the answer.
 - This ensures transparency and allows users to verify the medical information.
 
-### 👥 Meet the Team
+#### 👥 Meet the Team
 
 - Shows a **team photo** and names of the developers of the tool.
 
@@ -115,21 +115,30 @@ DrugMate provides an interactive web interface that allows users to easily engag
 
 1) Launch the application
 2) Ask medication questions. Try these type of questions: 
-      - What are the main reasons me, as a patient should not take Amlodipine Fair-Med 5 mg?
-      - How should Amlodipine Thame 10 mg be stored after opening?
-      - How is Ampres solution administered, and what is the typical dose for adults?
-      - What happens if I forget to take my Androcur 100 mg? 
-      - Could Aripil 5 mg affect my ability to drive cars or use machines in any way?
-      - Is it safe to take Valoid 50 mg if I’ve had too much to drink?
-  
-        
-        You can even try other languages:
-      - Quelle est la manière recommandée de prendre Roaccutane 20 mg ?
-      - Zu welcher Tageszeit sollte Simvastatin Teva 10 mg am besten eingenommen werden?
-      - Quanto spesso posso prendere Rowalief 500 mg al giorno?
-      - El ibuprofeno 400mg reduce la inflamacion?
-      - Eu tenho um problema cardíaco sério. É arriscado tomar Tadalafil Clonmel 20 mg?
-    
+  ##### English Examples:
+  - What are the main reasons me, as a patient, should not take Amlodipine Fair-Med 5 mg?
+  - How should Amlodipine Thame 10 mg be stored after opening?
+  - How is Ampres solution administered, and what is the typical dose for adults?
+  - What happens if I forget to take my Androcur 100 mg?
+  - Could Aripil 5 mg affect my ability to drive or use machines?
+  - Is it safe to take Valoid 50 mg if I’ve had too much to drink?
+  - Why should I avoid grapefruit juice when taking Budenofalk 9 mg granules?
+  - Can Bufomix Easyhaler 320 micrograms be used during an asthma attack?
+  - What common side effects should I expect with Cataflam 50 mg?
+  - Can I use Dalacin 2 vaginal cream if I'm pregnant?
+  - Are there any age restrictions for using Echinaforce Cold & Flu drops?
+  - Can Epanutin Infatabs 50 mg affect how other medicines work?
+
+  ##### Multilingual Examples:
+  - 🇫🇷 *Quelle est la manière recommandée de prendre Roaccutane 20 mg ?*
+  - 🇩🇪 *Zu welcher Tageszeit sollte Simvastatin Teva 10 mg am besten eingenommen werden?*
+  - 🇮🇹 *Quanto spesso posso prendere Rowalief 500 mg al giorno?*
+  - 🇪🇸 *¿El Ibuprofeno 400mg reduce la inflamación?*
+  - 🇵🇹 *Eu tenho um problema cardíaco sério. É arriscado tomar Tadalafil Clonmel 20 mg?*
+  - 🇨🇳 加比特利 5 毫克会引起情绪变化或情绪副作用吗
+
+Feel free to ask your own questions — the assistant understands context, dosage, risks, interactions, and more!
+
 3) Receive accurate and sourced answers
 
 
