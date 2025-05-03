@@ -131,6 +131,7 @@ DrugMate provides an interactive web interface that allows users to easily engag
 ## How to Use DrugMate
 
 **1) Launch the application**
+
 **2) Ask medication questions. Try these type of questions:**
   ##### English Examples:
   - What are the main reasons me, as a patient, should not take Amlodipine Fair-Med 5 mg?
