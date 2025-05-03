@@ -1,0 +1,16 @@
+streamlit
+langchain 
+langchain-community
+transformers
+sentence-transformers
+torch
+requests
+nltk
+pycountry
+langdetect
+pandas
+openpyxl
+faiss-gpu; platform_system != "Windows"
+faiss-cpu; platform_system == "Windows"
+cmake
+sentencepiece
