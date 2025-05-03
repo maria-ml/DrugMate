@@ -43,8 +43,6 @@ DrugMate/
 │ ├── index.faiss # Binary FAISS vector index
 │ └── index.pkl ** # Pickle file with ID-to-metadata mapping
 │
-├── 📁 database
-│
 ├── 📁 utils/ # core technologies and evaluation metrics
 │ ├── drugMate_core.ipynb # includes PDF sectioning, Vector store creation using FAISS, Question-answering pipeline, Language detection, automatic translation and evaluation.
 │ ├── Evaluation_questions.xlsx # questions & ground truth to obtain evaluation metrics
