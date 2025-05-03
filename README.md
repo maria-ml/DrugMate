@@ -45,10 +45,10 @@ DrugMate/
 │
 ├── 📁 database
 │
-├── 📁 utils/ # TODO
-│ ├── codigo TODO
+├── 📁 utils/ # core technologies and evaluation metrics
+│ ├── durgMate_core.ipynb # includes PDF sectioning, Vector store creation using FAISS, Question-answering pipeline, Language detection, automatic translation and evaluation.
 │ ├── Evaluation_questions.xlsx # questions & ground truth to obtain evaluation metrics
-│ └── excel con las metricas TODO
+│ └── Evaluation_metrics.xlsx # metrics for the optimization of the chatbot
 │
 ├── 📄 app.py # Main application script (entry point)
 ├── 🖼️ logo.png # Project logo (used in app UI)
@@ -59,19 +59,18 @@ DrugMate/
 ## Getting Started
 
 ### Prerequisites
-TODO
+* Python 3.7 or higher
+* Windows, Linux, or macOS
+* Conda (via Anaconda or Miniconda)
 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/TODO
-cd TODO
+git clone https://github.com/maria-ml/DrugMate
+cd DrugMate
 
 # Install dependencies
 pip install -r requirements.txt TODO
-
-# Set up environment variables
-echo "OPENAI_API_KEY=your_api_key_here" > .env  # If using OpenAI TODO
 ```
 ---
 ## User Interface Overview
