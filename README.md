@@ -53,7 +53,7 @@ DrugMate/
 ├── 🖼️ team_photo.jpg # Project contributors photo
 └── 📄 README.md # Project documentation (this file)
 ```
-**index.pkl is too heavy to be uploaded. Please, download it from this [link](https://drive.google.com/drive/folders/1PUVhNXhk_UoTqBRCxZoki1S49hRMpmvL?usp=sharing).
+**```index.pkl``` is too heavy to be uploaded. Please, download it from this [link](https://drive.google.com/drive/folders/1PUVhNXhk_UoTqBRCxZoki1S49hRMpmvL?usp=sharing).
 
 
 ---
@@ -73,8 +73,8 @@ cd DrugMate
 # Install dependencies
 pip install -r requirements.txt TODO
 ```
-### Notes
-lo de la API TODO
+### Important
+The API key publicly shared in ```app.py``` has an expiration date. After it expires, please create a new API in [Groq](https://console.groq.com/home​).
 
 ---
 ## User Interface Overview
