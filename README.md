@@ -73,6 +73,9 @@ cd DrugMate
 # Install dependencies
 pip install -r requirements.txt TODO
 ```
+### Notes
+lo de la API TODO
+
 ---
 ## User Interface Overview
 
