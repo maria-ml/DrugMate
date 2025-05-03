@@ -41,7 +41,7 @@ DrugMate/
 │
 ├── 📁 faiss_index/ # FAISS index and metadata for semantic search
 │ ├── index.faiss # Binary FAISS vector index
-│ └── index.pkl # Pickle file with ID-to-metadata mapping
+│ └── index.pkl ** # Pickle file with ID-to-metadata mapping
 │
 ├── 📁 database
 │
@@ -55,6 +55,9 @@ DrugMate/
 ├── 🖼️ team_photo.jpg # Project contributors photo
 └── 📄 README.md # Project documentation (this file)
 ```
+**index.pkl is too heavy to be uploaded. Please, download it from this [link](https://drive.google.com/drive/folders/1PUVhNXhk_UoTqBRCxZoki1S49hRMpmvL?usp=sharing).
+
+
 ---
 ## Getting Started
 
