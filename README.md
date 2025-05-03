@@ -46,7 +46,7 @@ DrugMate/
 ├── 📁 database
 │
 ├── 📁 utils/ # core technologies and evaluation metrics
-│ ├── durgMate_core.ipynb # includes PDF sectioning, Vector store creation using FAISS, Question-answering pipeline, Language detection, automatic translation and evaluation.
+│ ├── drugMate_core.ipynb # includes PDF sectioning, Vector store creation using FAISS, Question-answering pipeline, Language detection, automatic translation and evaluation.
 │ ├── Evaluation_questions.xlsx # questions & ground truth to obtain evaluation metrics
 │ └── Evaluation_metrics.xlsx # metrics for the optimization of the chatbot
 │
