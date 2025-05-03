@@ -47,6 +47,7 @@ DrugMate/
 │
 ├── 📁 utils/ # TODO
 │ ├── codigo TODO
+│ ├── Evaluation_questions.xlsx # questions & ground truth to obtain evaluation metrics
 │ └── excel con las metricas TODO
 │
 ├── 📄 app.py # Main application script (entry point)
@@ -113,7 +114,7 @@ DrugMate provides an interactive web interface that allows users to easily engag
 
 #### 🔍 Summarize Context
 
-- it summarizes the underlying document **context** in simple, layman-friendly terms.
+- It summarizes the underlying document **context** in simple, layman-friendly terms.
 - Useful for users who want to understand the leaflet content without reading full medical documents.
 
 #### 📄 Source Documents
@@ -129,8 +130,8 @@ DrugMate provides an interactive web interface that allows users to easily engag
 ---
 ## How to Use DrugMate
 
-1) Launch the application
-2) Ask medication questions. Try these type of questions: 
+**1) Launch the application**
+**2) Ask medication questions. Try these type of questions:**
   ##### English Examples:
   - What are the main reasons me, as a patient, should not take Amlodipine Fair-Med 5 mg?
   - How should Amlodipine Thame 10 mg be stored after opening?
@@ -155,7 +156,7 @@ DrugMate provides an interactive web interface that allows users to easily engag
 
 Feel free to ask your own questions — the assistant understands context, dosage, risks, interactions, and more!
 
-3) Receive accurate and sourced answers
+**3) Receive accurate and sourced answers**
 
 
 ---
