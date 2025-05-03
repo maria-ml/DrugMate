@@ -36,26 +36,24 @@ Users can ask questions about medication usage, side effects, dosages, and contr
 
 ---
 ## Project Structure
+```
 DrugMate/
-
 │
-
 ├── 📁 faiss_index/ # FAISS index and metadata for semantic search
-
 │ ├── index.faiss # Binary FAISS vector index
-
 │ └── index.pkl # Pickle file with ID-to-metadata mapping
-
 │
-
+├── 📁 database
+│
+├── 📁 utils/ # TODO
+│ ├── codigo TODO
+│ └── excel con las metricas TODO
+│
 ├── 📄 app.py # Main application script (entry point)
-
 ├── 🖼️ logo.png # Project logo (used in app UI)
-
 ├── 🖼️ team_photo.jpg # Project contributors photo
-
 └── 📄 README.md # Project documentation (this file)
-
+```
 ---
 ## Getting Started
 
