@@ -148,7 +148,7 @@ def load_faiss():
 retriever = load_faiss()
 
 
-API_KEY = "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"
+API_KEY = "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"
 
 
 # ----------------------------- #
